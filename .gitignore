@@ -1,0 +1,5 @@
+renv/library
+renv/local
+renv/cache
+.Rhistory
+.RData
